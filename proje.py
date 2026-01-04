@@ -9,7 +9,7 @@ import os
 
 # --- AYARLAR ---
 DB_FILE = "insurance_lite.db"
-COMPANY_LIST = ["Ankara", "Mapfre", "AXA", "Anadolu", "Ray", "Allianz", "Sompo", "Türkiye Sigorta", "Diğer"]
+COMPANY_LIST = ["Ankara", "Mapfre", "AXA", "Anaaadolu", "Ray", "Allianz", "Sompo", "Türkiye Sigorta", "Diğer"]
 
 # --- VERİTABANI İŞLEMLERİ ---
 def get_db_connection():
